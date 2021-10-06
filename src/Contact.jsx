@@ -25,7 +25,7 @@ const Contact = () => {
 
     return (
         <>
-            <div className="text-center mt-5 con" ><h1>Contact with <strong>US</strong></h1></div>
+            <div className="text-center mt-5 con" ><h1>Contact with <strong style={{ color=`blue` }}>US</strong></h1></div>
             <div className="container contact_div">
                 <div className="row">
                     <div className="col-md-6 col-10 mx-auto">
