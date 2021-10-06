@@ -6,7 +6,7 @@ const Footer = () => {
     return (
 
         <>
-            <footer className="text-center text-white fixed-bottom" style={{ backgroundColor: `blue` }}>
+            <footer className="text-center text-white " style={{ backgroundColor: `blue` }}>
 
 
 
